@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Teste
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <p>Teste de detecção dinâmica de imagens no texto.</p>
+  <p>Clique na imagem e então dê zoom nela.</p>
+  <button ion-button block (click)="load()">Atualizar</button>
+  <div [innerHtml]="content" class="dinamic-content"></div>
+</ion-content>
