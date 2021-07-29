@@ -6,6 +6,6 @@ Plugin used to Zoom image is Ionic Image Viewer: https://github.com/Riron/ionic-
 Don't forget to run npm install before run the code.
 
 
-Find me at Facebook:
-https://fb.com/flavio.malaquias
+Find me at Linkedin:
+https://www.linkedin.com/in/flavio-malaquias/
 
